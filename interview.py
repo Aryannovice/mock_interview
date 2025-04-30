@@ -13,8 +13,8 @@ from google.api_core import retry_async, exceptions
 
 # Configure APIs
 # IMPORTANT: Replace with your actual API keys
-genai.configure(api_key="AIzaSyCDNetAyMGsR33qeM2RL3frAIMojwUMoTk")
-ASSEMBLY_API_KEY = "2b987f180eaf45d78941eb6a182627aa"
+genai.configure(api_key="")
+ASSEMBLY_API_KEY = ""
 
 # Custom CSS remains the same as in the original script
 st.markdown("""
