@@ -1,0 +1,5 @@
+assemblyai
+sounddevice
+streamlit-webrtc
+python-dotenv
+google-generativeai
